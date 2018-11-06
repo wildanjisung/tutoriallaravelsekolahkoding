@@ -1,0 +1,4 @@
+Tutorial
+
+2.
+php artisan make:controller BlogController
